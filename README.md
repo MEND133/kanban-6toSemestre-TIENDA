@@ -1,1 +1,1 @@
-# kanban-6toSemestre-EmpresaLadrillos
+# kanban-6toSemestre-TIENDA
